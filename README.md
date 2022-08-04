@@ -15,3 +15,5 @@ Sou um desenvolvedor front-end , apaixonado por tecnologia e por mudar a vida da
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/" alt="js" />
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/" alt="react" />
  </div>
+
+  ![Snake animation](https://github.com/guiwustro/guiwustro/blob/output/github-contribution-grid-snake.svg)

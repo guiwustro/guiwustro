@@ -2,8 +2,10 @@
 
 Sou um desenvolvedor front-end , apaixonado por tecnologia e por mudar a vida das pessoas através da programação
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiwustro&hide=contribs&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiwustro&layout=compact)]
+<div style="display:inline_block">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=guiwustro&hide=contribs&show_icons=true&theme=dracula/" alt="stats-github" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwustro&layout=compact/" alt="top-langs" />
+</div>
 
 ### Tecnologias  
 

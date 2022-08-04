@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Guilherme Wustro 😀
 
-Sou um desenvolvedor front-end , apaixonado por tecnologia e por mudar a vida das pessoas através da programação
-
+Sou um desenvolvedor front-end , apaixonado por tecnologia e por mudar a vida
+das pessoas através da programação
 
 <div style="display:inline_block">
- 
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=guiwustro&hide=contribs&show_icons=true&theme=dracula
 /" alt="stats-github" />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwustro&layout=compact
@@ -12,6 +11,8 @@ Sou um desenvolvedor front-end , apaixonado por tecnologia e por mudar a vida da
 
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiwustro&hide=contribs&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiwustro&layout=compact)]
 
 ### Tecnologias que eu uso no meu dia
 

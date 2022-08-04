@@ -3,8 +3,8 @@
 Sou um desenvolvedor front-end , apaixonado por tecnologia e por mudar a vida das pessoas através da programação
 
 <div style="display:inline_block">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=guiwustro&hide=contribs&show_icons=true&theme=dracula/" alt="stats-github" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwustro&layout=compact/" alt="top-langs" />
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=guiwustro&hide=contribs&show_icons=true&theme=dracula/" alt="stats-github" />
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiwustro&layout=compact/" alt="top-langs" />
 </div>
 
 ### Tecnologias  
